@@ -1,1 +1,1 @@
-### Aim of the experiment
+#### To acquire the Electrocardiogram (ECG) signal from the human body using a biomedical system and observe the electrical activity of the heart. 
