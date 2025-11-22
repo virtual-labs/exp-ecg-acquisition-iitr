@@ -1,39 +1,52 @@
-{
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+[
+  {
+    "question": "Which of the following indicates atrioventricular conduction delay in an ECG?",
+    "answers": {
+      "a": "Prolonged QRS complex",
+      "b": "Prolonged PR interval",
+      "c": "Elevated ST segment",
+      "d": "Inverted T wave"
     },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Why is the QRS complex narrower and sharper compared to the P wave?",
+    "answers": {
+      "a": "Ventricular repolarization is slower",
+      "b": "Ventricular depolarization is faster and stronger",
+      "c": "Atria are electrically larger",
+      "d": "Due to baseline wandering"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What part of the heart’s conduction system delays signal transmission to allow ventricular filling?",
+    "answers": {
+      "a": "SA node",
+      "b": "Purkinje fibers",
+      "c": "AV node",
+      "d": "Aortic valve"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "If you observe 50 Hz noise in an ECG signal during acquisition, the most probable cause is:",
+    "answers": {
+      "a": "Muscle tremor",
+      "b": "Lead reversal",
+      "c": "Power-line interference",
+      "d": "Pacemaker activity"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "In a 3-lead ECG, what is the role of the RL electrode?",
+    "answers": {
+      "a": "Records signals from the heart",
+      "b": "Provides ground reference",
+      "c": "Detects noise",
+      "d": "Amplifies the P wave"
+    },
+    "correctAnswer": "b"
+  }
+]
