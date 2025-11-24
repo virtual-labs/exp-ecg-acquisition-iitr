@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does the P wave in an ECG represent?",
+    "answers": {
+      "a": "Ventricular depolarization",
+      "b": "Atrial depolarization",
+      "c": "Ventricular repolarization",
+      "d": "Atrial repolarization"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is the typical amplitude range of an ECG signal?",
+    "answers": {
+      "a": "0.01–0.05 V",
+      "b": "1–5 V",
+      "c": "0.5–5 mV",
+      "d": "50–100 mV"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Which component is used to amplify ECG signals?",
+    "answers": {
+      "a": "Transistor",
+      "b": "Instrumentation amplifier",
+      "c": "Power amplifier",
+      "d": "Isolation transformer"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is the minimum sampling rate typically used in ECG?",
+    "answers": {
+      "a": "100 Hz",
+      "b": "250 Hz",
+      "c": "25 Hz",
+      "d": "1000 Hz"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Why is the skin mildly abraded before applying ECG electrodes?",
+    "answers": {
+      "a": "To cool the skin",
+      "b": "For better contact and lower impedance",
+      "c": "For disinfecting",
+      "d": "To increase electrical activity"
+    },
+    "correctAnswer": "b"
+  }
+]
